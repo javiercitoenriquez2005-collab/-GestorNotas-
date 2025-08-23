@@ -1,8 +1,7 @@
 //avance_proyecto_02_pseudocodigo
-//Este algoritmo busca registrar varias notas y calcular su promedio
 //Alvaro Javier Enriquez Folgar
 //avance_proyecto_02_pseudocodigo.txt
-//Carné 7590-25-10622
+//Carné 7590-25-11533
 
 
 //Creamos una funcion para poder manejar el promedio individual por medio de una abreviacion.
