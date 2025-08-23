@@ -1,6 +1,6 @@
 //avance_proyecto_02_pseudocodigo
 //Este algoritmo busca registrar varias notas y calcular su promedio
-//Allan Stiven Ramos López
+//Alvaro Javier Enriquez Folgar
 //avance_proyecto_02_pseudocodigo.txt
 //Carné 7590-25-10622
 
