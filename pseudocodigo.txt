@@ -4,9 +4,9 @@ Inicio
 	
     Mientras op <> 5 Hacer
         Imprimir ""
-        Imprimir "----- Menú Gestor de Notas Académicas - UAM -----"
+        Imprimir "----- Menú Gestor de Notas Académicas - Umg -----"
         Imprimir "1. Registrar un nuevo curso y nota"
-        Imprimir "2. Mostrar todas las notas"
+        Imprimir "2. Mostrar todas las notas
         Imprimir "3. Modificar la nota de un curso"
         Imprimir "4. Eliminar un curso y su nota"
         Imprimir "5. Salir del sistema"
