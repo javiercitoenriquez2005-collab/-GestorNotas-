@@ -52,4 +52,40 @@ def Ganando():
 
 # Ejecutar el algoritmo
 Ganando()
+def gestor_notas():
+    op = 0
+
+    while op != 5:
+        print("\n----- Menú Gestor de Notas Académicas - UMG -----")
+        print("1. Registrar un nuevo curso y nota")
+        print("2. Mostrar todas las notas")
+        print("3. Modificar la nota de un curso")
+        print("4. Eliminar un curso y su nota")
+        print("5. Salir del sistema")
+        
+        try:
+            op = int(input("Seleccione una opción: "))
+        except ValueError:
+            print("Entrada inválida. Por favor, ingrese un número del 1 al 5.")
+            continue
+
+        if op == 1:
+            print("<Registrar un nuevo curso y nota>")
+            # acción aquí
+        elif op == 2:
+            print("<Mostrar todas las notas>")
+            # acción aquí
+        elif op == 3:
+            print("<Modificar la nota de un curso>")
+            # acción aquí
+        elif op == 4:
+            print("<Eliminar un curso y su nota>")
+            # acción aquí
+        elif op == 5:
+            print("Saliendo del sistema...")
+        else:
+            print("Opción inválida, intente nuevamente.")
+
+# Ejecutar el menú
+gestor_notas()
 
